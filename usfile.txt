@@ -5,3 +5,5 @@ JAMES
 KEVIN
 SAM
 ROBIN
+jimmy
+nick
